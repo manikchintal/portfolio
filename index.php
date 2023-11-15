@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <link rel="icon" href="./src/assets/favicon.ico" type="image/x-icon">
+
+
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio</title>
+    <script type="module" crossorigin="" src="index.js"></script>
+    <link rel="stylesheet" href="style.css">
+    <style></style>
+    <style></style>
+    <style type="text/css">
+        .index-module_type__E-SaG::after {
+            content: '|';
+            animation: index-module_cursor__PQg0P 1.1s infinite step-start;
+        }
+
+        @keyframes index-module_cursor__PQg0P {
+            50% {
+                opacity: 0;
+            }
+        }
+    </style>
+    <style data-styled="active" data-styled-version="5.3.11"></style>
+</head>
+
+<body>
+<body class=" dark">
+    <div id="root"></div>
+</body>
+</html>
