@@ -13255,7 +13255,7 @@ const sh = ({ darkMode: e }) => v("div", {
     }, {
         id: 2,
         img: "https://i.postimg.cc/Bv75CLyN/4167022.jpg",
-        title: "Mahindra Projects",
+        title: "Mahidhara Projects",
         link: "https://mahidharaprojects.com/",
         git: ""
     }, {
