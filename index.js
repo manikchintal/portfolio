@@ -11341,16 +11341,16 @@ const X2 = [{
                             className: " flex flex-col gap-1 border-2 border-yellow-400 shadow-[0px_0px_16px_1px_rgba(0,0,0,0.1)] p-3 rounded-lg",
                             children: [v("h1", {
                                 className: "text-[1.4rem] font-semibold sm:text-xl",
-                                children: "BCA (Computer Applications)"
+                                children: "MCA (Computer Applications)"
                             }), v("span", {
                                 className: " text-[.9rem] font-semibold text-gray-500 sm:text-base",
                                 children: "Osmania University"
                             }), v("span", {
                                 className: " text-[.9rem] font-semibold text-yellow-500 sm:text-base",
-                                children: "Year 2020 - Year 2023"
+                                children: "Year 2023 - Year 2025"
                             }), v("p", {
                                 className: " text-[.9rem] text-justify text-gray-500",
-                                children: "Bachelor's in Computer Applications"
+                                children: "Master's in Computer Applications"
                             })]
                         })]
                     })]
